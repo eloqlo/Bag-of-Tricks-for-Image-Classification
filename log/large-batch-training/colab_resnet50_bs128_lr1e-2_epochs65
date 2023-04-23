@@ -1,0 +1,204 @@
+<< Configurations >>
+[*] Model       - resnet50
+[*] Batch_size  - 128
+[*] LR          - 0.01
+[*] Epochs      - 100
+[*] train newly initialized model!
+[*] Parameters  - 23,917,832
+[*] Start Training !
+
+Epoch: 01 | Epoch Time: 37m 56s
+	Train Loss: 6.516 | Train Acc @1:   0.40% | Train Acc @5:   2.37%
+	Valid Loss: 5.381 | Valid Acc @1:   0.42% | Valid Acc @5:   2.26%
+Epoch: 02 | Epoch Time: 2m 47s
+	Train Loss: 5.292 | Train Acc @1:   0.53% | Train Acc @5:   2.60%
+	Valid Loss: 5.294 | Valid Acc @1:   0.62% | Valid Acc @5:   2.58%
+Epoch: 03 | Epoch Time: 2m 48s
+	Train Loss: 5.276 | Train Acc @1:   0.75% | Train Acc @5:   3.56%
+	Valid Loss: 5.293 | Valid Acc @1:   0.68% | Valid Acc @5:   2.92%
+Epoch: 04 | Epoch Time: 2m 47s
+	Train Loss: 5.255 | Train Acc @1:   1.04% | Train Acc @5:   4.10%
+	Valid Loss: 5.273 | Valid Acc @1:   0.68% | Valid Acc @5:   3.84%
+Epoch: 05 | Epoch Time: 2m 47s
+	Train Loss: 5.206 | Train Acc @1:   0.91% | Train Acc @5:   5.58%
+	Valid Loss: 5.197 | Valid Acc @1:   1.09% | Valid Acc @5:   5.71%
+Epoch: 06 | Epoch Time: 2m 48s
+	Train Loss: 5.108 | Train Acc @1:   1.75% | Train Acc @5:   6.43%
+	Valid Loss: 5.136 | Valid Acc @1:   0.96% | Valid Acc @5:   6.03%
+Epoch: 07 | Epoch Time: 2m 47s
+	Train Loss: 5.204 | Train Acc @1:   1.06% | Train Acc @5:   4.77%
+	Valid Loss: 5.165 | Valid Acc @1:   1.14% | Valid Acc @5:   6.24%
+Epoch: 08 | Epoch Time: 2m 46s
+	Train Loss: 5.058 | Train Acc @1:   1.59% | Train Acc @5:   6.37%
+	Valid Loss: 5.048 | Valid Acc @1:   1.15% | Valid Acc @5:   6.95%
+Epoch: 09 | Epoch Time: 2m 47s
+	Train Loss: 4.973 | Train Acc @1:   1.89% | Train Acc @5:   8.11%
+	Valid Loss: 4.917 | Valid Acc @1:   1.83% | Valid Acc @5:   9.63%
+Epoch: 10 | Epoch Time: 2m 47s
+	Train Loss: 4.900 | Train Acc @1:   2.29% | Train Acc @5:   9.44%
+	Valid Loss: 4.900 | Valid Acc @1:   2.23% | Valid Acc @5:   9.25%
+Epoch: 11 | Epoch Time: 2m 47s
+	Train Loss: 4.848 | Train Acc @1:   2.26% | Train Acc @5:  10.44%
+	Valid Loss: 4.855 | Valid Acc @1:   3.05% | Valid Acc @5:  10.44%
+Epoch: 12 | Epoch Time: 2m 48s
+	Train Loss: 4.761 | Train Acc @1:   2.85% | Train Acc @5:  12.09%
+	Valid Loss: 4.762 | Valid Acc @1:   2.57% | Valid Acc @5:  12.40%
+Epoch: 13 | Epoch Time: 2m 49s
+	Train Loss: 4.684 | Train Acc @1:   3.61% | Train Acc @5:  13.80%
+	Valid Loss: 4.748 | Valid Acc @1:   3.74% | Valid Acc @5:  13.03%
+Epoch: 14 | Epoch Time: 2m 47s
+	Train Loss: 4.568 | Train Acc @1:   3.69% | Train Acc @5:  15.84%
+	Valid Loss: 4.667 | Valid Acc @1:   4.13% | Valid Acc @5:  14.25%
+Epoch: 15 | Epoch Time: 2m 47s
+	Train Loss: 4.484 | Train Acc @1:   4.57% | Train Acc @5:  16.81%
+	Valid Loss: 4.530 | Valid Acc @1:   3.99% | Valid Acc @5:  16.60%
+Epoch: 16 | Epoch Time: 2m 49s
+	Train Loss: 4.412 | Train Acc @1:   4.97% | Train Acc @5:  18.33%
+	Valid Loss: 4.458 | Valid Acc @1:   5.52% | Valid Acc @5:  19.65%
+Epoch: 17 | Epoch Time: 2m 46s
+	Train Loss: 4.347 | Train Acc @1:   5.88% | Train Acc @5:  20.56%
+	Valid Loss: 4.484 | Valid Acc @1:   4.93% | Valid Acc @5:  17.98%
+Epoch: 18 | Epoch Time: 2m 46s
+	Train Loss: 4.267 | Train Acc @1:   6.75% | Train Acc @5:  23.20%
+	Valid Loss: 4.393 | Valid Acc @1:   5.93% | Valid Acc @5:  20.84%
+Epoch: 19 | Epoch Time: 2m 47s
+	Train Loss: 4.164 | Train Acc @1:   7.66% | Train Acc @5:  25.42%
+	Valid Loss: 4.215 | Valid Acc @1:   7.17% | Valid Acc @5:  25.63%
+Epoch: 20 | Epoch Time: 2m 47s
+	Train Loss: 4.075 | Train Acc @1:   8.42% | Train Acc @5:  28.16%
+	Valid Loss: 4.279 | Valid Acc @1:   7.60% | Valid Acc @5:  25.30%
+Epoch: 21 | Epoch Time: 2m 46s
+	Train Loss: 3.988 | Train Acc @1:  10.09% | Train Acc @5:  30.99%
+	Valid Loss: 4.067 | Valid Acc @1:  10.13% | Valid Acc @5:  30.78%
+Epoch: 22 | Epoch Time: 2m 47s
+	Train Loss: 3.865 | Train Acc @1:  11.56% | Train Acc @5:  34.16%
+	Valid Loss: 4.256 | Valid Acc @1:   8.09% | Valid Acc @5:  26.80%
+Epoch: 23 | Epoch Time: 2m 47s
+	Train Loss: 3.753 | Train Acc @1:  13.66% | Train Acc @5:  37.29%
+	Valid Loss: 3.886 | Valid Acc @1:  12.49% | Valid Acc @5:  35.49%
+Epoch: 24 | Epoch Time: 2m 47s
+	Train Loss: 3.631 | Train Acc @1:  15.20% | Train Acc @5:  40.79%
+	Valid Loss: 3.861 | Valid Acc @1:  13.66% | Valid Acc @5:  37.74%
+Epoch: 25 | Epoch Time: 2m 47s
+	Train Loss: 3.504 | Train Acc @1:  16.98% | Train Acc @5:  43.68%
+	Valid Loss: 3.702 | Valid Acc @1:  14.99% | Valid Acc @5:  40.20%
+Epoch: 26 | Epoch Time: 2m 48s
+	Train Loss: 3.433 | Train Acc @1:  18.61% | Train Acc @5:  46.00%
+	Valid Loss: 3.950 | Valid Acc @1:  14.08% | Valid Acc @5:  39.76%
+Epoch: 27 | Epoch Time: 2m 49s
+	Train Loss: 3.324 | Train Acc @1:  20.10% | Train Acc @5:  47.96%
+	Valid Loss: 3.731 | Valid Acc @1:  16.05% | Valid Acc @5:  43.68%
+Epoch: 28 | Epoch Time: 2m 55s
+	Train Loss: 3.228 | Train Acc @1:  22.21% | Train Acc @5:  50.70%
+	Valid Loss: 3.984 | Valid Acc @1:  14.84% | Valid Acc @5:  38.40%
+Epoch: 29 | Epoch Time: 2m 55s
+	Train Loss: 3.129 | Train Acc @1:  23.74% | Train Acc @5:  53.34%
+	Valid Loss: 3.506 | Valid Acc @1:  18.82% | Valid Acc @5:  44.97%
+Epoch: 30 | Epoch Time: 2m 55s
+	Train Loss: 3.042 | Train Acc @1:  25.19% | Train Acc @5:  55.08%
+	Valid Loss: 3.559 | Valid Acc @1:  19.72% | Valid Acc @5:  47.09%
+Epoch: 31 | Epoch Time: 2m 55s
+	Train Loss: 2.911 | Train Acc @1:  27.79% | Train Acc @5:  58.23%
+	Valid Loss: 3.484 | Valid Acc @1:  20.15% | Valid Acc @5:  47.16%
+Epoch: 32 | Epoch Time: 2m 56s
+	Train Loss: 2.823 | Train Acc @1:  29.02% | Train Acc @5:  60.84%
+	Valid Loss: 3.365 | Valid Acc @1:  21.88% | Valid Acc @5:  50.08%
+Epoch: 33 | Epoch Time: 2m 55s
+	Train Loss: 2.711 | Train Acc @1:  30.84% | Train Acc @5:  63.08%
+	Valid Loss: 3.548 | Valid Acc @1:  21.80% | Valid Acc @5:  51.20%
+Epoch: 34 | Epoch Time: 2m 55s
+	Train Loss: 2.584 | Train Acc @1:  34.63% | Train Acc @5:  65.63%
+	Valid Loss: 3.485 | Valid Acc @1:  24.42% | Valid Acc @5:  51.76%
+Epoch: 35 | Epoch Time: 2m 54s
+	Train Loss: 2.498 | Train Acc @1:  36.28% | Train Acc @5:  67.37%
+	Valid Loss: 3.342 | Valid Acc @1:  25.23% | Valid Acc @5:  53.31%
+Epoch: 36 | Epoch Time: 2m 54s
+	Train Loss: 2.389 | Train Acc @1:  37.43% | Train Acc @5:  69.65%
+	Valid Loss: 3.306 | Valid Acc @1:  27.89% | Valid Acc @5:  56.60%
+Epoch: 37 | Epoch Time: 2m 54s
+	Train Loss: 2.255 | Train Acc @1:  41.62% | Train Acc @5:  72.74%
+	Valid Loss: 3.116 | Valid Acc @1:  30.42% | Valid Acc @5:  59.15%
+Epoch: 38 | Epoch Time: 2m 54s
+	Train Loss: 2.163 | Train Acc @1:  43.09% | Train Acc @5:  74.32%
+	Valid Loss: 3.243 | Valid Acc @1:  28.48% | Valid Acc @5:  56.93%
+Epoch: 39 | Epoch Time: 2m 54s
+	Train Loss: 2.084 | Train Acc @1:  45.07% | Train Acc @5:  75.98%
+	Valid Loss: 3.292 | Valid Acc @1:  28.97% | Valid Acc @5:  57.56%
+Epoch: 40 | Epoch Time: 2m 54s
+	Train Loss: 1.956 | Train Acc @1:  47.34% | Train Acc @5:  78.21%
+	Valid Loss: 3.100 | Valid Acc @1:  32.45% | Valid Acc @5:  60.17%
+Epoch: 41 | Epoch Time: 2m 54s
+	Train Loss: 1.865 | Train Acc @1:  49.85% | Train Acc @5:  80.07%
+	Valid Loss: 3.113 | Valid Acc @1:  32.81% | Valid Acc @5:  61.11%
+Epoch: 42 | Epoch Time: 2m 54s
+	Train Loss: 1.761 | Train Acc @1:  52.35% | Train Acc @5:  82.32%
+	Valid Loss: 3.177 | Valid Acc @1:  32.39% | Valid Acc @5:  60.30%
+Epoch: 43 | Epoch Time: 2m 53s
+	Train Loss: 1.653 | Train Acc @1:  54.56% | Train Acc @5:  83.43%
+	Valid Loss: 3.162 | Valid Acc @1:  34.39% | Valid Acc @5:  61.78%
+Epoch: 44 | Epoch Time: 2m 54s
+	Train Loss: 1.554 | Train Acc @1:  57.14% | Train Acc @5:  85.04%
+	Valid Loss: 3.040 | Valid Acc @1:  34.21% | Valid Acc @5:  62.19%
+Epoch: 45 | Epoch Time: 2m 54s
+	Train Loss: 1.464 | Train Acc @1:  59.42% | Train Acc @5:  86.70%
+	Valid Loss: 3.565 | Valid Acc @1:  31.77% | Valid Acc @5:  59.90%
+Epoch: 46 | Epoch Time: 2m 54s
+	Train Loss: 1.366 | Train Acc @1:  61.42% | Train Acc @5:  87.98%
+	Valid Loss: 3.182 | Valid Acc @1:  33.85% | Valid Acc @5:  63.63%
+Epoch: 47 | Epoch Time: 2m 55s
+	Train Loss: 1.273 | Train Acc @1:  64.00% | Train Acc @5:  89.51%
+	Valid Loss: 3.417 | Valid Acc @1:  33.81% | Valid Acc @5:  64.24%
+Epoch: 48 | Epoch Time: 2m 56s
+	Train Loss: 1.186 | Train Acc @1:  66.33% | Train Acc @5:  90.74%
+	Valid Loss: 3.275 | Valid Acc @1:  35.91% | Valid Acc @5:  65.05%
+Epoch: 49 | Epoch Time: 2m 58s
+	Train Loss: 1.118 | Train Acc @1:  67.94% | Train Acc @5:  92.05%
+	Valid Loss: 3.146 | Valid Acc @1:  36.08% | Valid Acc @5:  65.25%
+Epoch: 50 | Epoch Time: 2m 58s
+	Train Loss: 1.068 | Train Acc @1:  69.19% | Train Acc @5:  92.43%
+	Valid Loss: 3.494 | Valid Acc @1:  37.33% | Valid Acc @5:  66.18%
+Epoch: 51 | Epoch Time: 2m 59s
+	Train Loss: 0.944 | Train Acc @1:  71.88% | Train Acc @5:  93.91%
+	Valid Loss: 3.317 | Valid Acc @1:  37.33% | Valid Acc @5:  65.74%
+Epoch: 52 | Epoch Time: 2m 58s
+	Train Loss: 0.872 | Train Acc @1:  74.22% | Train Acc @5:  95.15%
+	Valid Loss: 3.196 | Valid Acc @1:  38.84% | Valid Acc @5:  66.62%
+Epoch: 53 | Epoch Time: 2m 58s
+	Train Loss: 0.832 | Train Acc @1:  76.27% | Train Acc @5:  94.98%
+	Valid Loss: 3.322 | Valid Acc @1:  38.04% | Valid Acc @5:  66.39%
+Epoch: 54 | Epoch Time: 2m 58s
+	Train Loss: 0.744 | Train Acc @1:  77.83% | Train Acc @5:  96.22%
+	Valid Loss: 3.617 | Valid Acc @1:  34.95% | Valid Acc @5:  65.69%
+Epoch: 55 | Epoch Time: 2m 57s
+	Train Loss: 0.672 | Train Acc @1:  80.56% | Train Acc @5:  96.91%
+	Valid Loss: 3.502 | Valid Acc @1:  38.33% | Valid Acc @5:  68.24%
+Epoch: 56 | Epoch Time: 2m 57s
+	Train Loss: 0.627 | Train Acc @1:  80.74% | Train Acc @5:  97.51%
+	Valid Loss: 3.324 | Valid Acc @1:  38.90% | Valid Acc @5:  67.24%
+Epoch: 57 | Epoch Time: 2m 56s
+	Train Loss: 0.544 | Train Acc @1:  83.97% | Train Acc @5:  97.74%
+	Valid Loss: 3.657 | Valid Acc @1:  38.60% | Valid Acc @5:  65.45%
+Epoch: 58 | Epoch Time: 2m 56s
+	Train Loss: 0.509 | Train Acc @1:  84.48% | Train Acc @5:  98.12%
+	Valid Loss: 4.043 | Valid Acc @1:  37.31% | Valid Acc @5:  65.22%
+Epoch: 59 | Epoch Time: 2m 57s
+	Train Loss: 0.489 | Train Acc @1:  85.21% | Train Acc @5:  98.21%
+	Valid Loss: 3.853 | Valid Acc @1:  38.18% | Valid Acc @5:  67.85%
+Epoch: 60 | Epoch Time: 2m 57s
+	Train Loss: 0.438 | Train Acc @1:  86.48% | Train Acc @5:  98.39%
+	Valid Loss: 3.983 | Valid Acc @1:  37.56% | Valid Acc @5:  66.10%
+Epoch: 61 | Epoch Time: 2m 57s
+	Train Loss: 0.405 | Train Acc @1:  87.90% | Train Acc @5:  98.94%
+	Valid Loss: 3.554 | Valid Acc @1:  40.12% | Valid Acc @5:  68.95%
+Epoch: 62 | Epoch Time: 2m 56s
+	Train Loss: 0.389 | Train Acc @1:  87.99% | Train Acc @5:  98.91%
+	Valid Loss: 3.951 | Valid Acc @1:  37.92% | Valid Acc @5:  64.97%
+Epoch: 63 | Epoch Time: 2m 55s
+	Train Loss: 0.375 | Train Acc @1:  88.52% | Train Acc @5:  99.03%
+	Valid Loss: 3.705 | Valid Acc @1:  41.37% | Valid Acc @5:  69.68%
+Epoch: 64 | Epoch Time: 2m 55s
+	Train Loss: 0.321 | Train Acc @1:  90.26% | Train Acc @5:  99.27%
+	Valid Loss: 3.877 | Valid Acc @1:  39.72% | Valid Acc @5:  68.24%
+Epoch: 65 | Epoch Time: 2m 54s
+	Train Loss: 0.304 | Train Acc @1:  90.69% | Train Acc @5:  99.33%
+	Valid Loss: 4.041 | Valid Acc @1:  39.58% | Valid Acc @5:  68.12%
