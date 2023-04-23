@@ -1,17 +1,23 @@
 # Bag of Tricks for Image Classification
 
-He, Tong, et al. "Bag of tricks for image classification with convolutional neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
-https://arxiv.org/abs/1812.01187
+My Implementation of the approach described in the paper:  
+> He, Tong, et al. "Bag of tricks for image classification with convolutional neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.  
+> https://arxiv.org/abs/1812.01187
+
+## Update
+- 23.04.23: Initial upload !
 
 ## Introduction
-
 Experiments for below methods introduced in this paper.
 1. Large Batch Training
 2. Cosine Learning Rate Decay
 3. Label Smoothing
 4. Transfer Learning
 
-## Experiment Environment
+You can experiment upper methods using this repository.  
+
+
+## Tested Dependencies
 
 ``GPU`` NVIDIA RTX-3060-12GB, A6000-48GB, Colab-K80  
 ``CUDA`` 11.2  
@@ -21,6 +27,28 @@ Experiments for below methods introduced in this paper.
 ``OS`` Ubuntu 20.04, Ubuntu 18.04  
 ``Datasets`` CUB200-2011, ImageNet-1K
 
+(As I don't use special libraries, errors may not occur in other environments.)
+
 ---
 
-**More information on each directories.**
+## Dataset setup
+
+Plese download the dataset from https://www.kaggle.com/datasets/coolerextreme/cub-200-2011. And split your data into train, test folders.
+```
+${YOUR_ROOT}/
+|-- workspace
+|   |-- Bag-of-Tricks-for-Image-Classification  # current repository.
+|-- dataset
+|   |-- archive
+|   |   |-- CUB_200_2011
+|   |   |   |-- CUB_200_2011
+|   |   |   |   |-- train
+|   |   |   |   |-- test
+|   |   |   |   |-- ...
+```
+
+## Train the Model by each Methods
+
+
+## Licence
+This project is licensed under the terms of the MIT license.
