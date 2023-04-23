@@ -1,13 +1,11 @@
 # Bag of Tricks for Image Classification
+**[23.04.24]** Update!  
 
-My Implementation of the approach described in the paper:  
+:robot: My Implementation of the approach described in below paper. Hope you got helped!
 > He, Tong, et al. "Bag of tricks for image classification with convolutional neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.  
-> https://arxiv.org/abs/1812.01187
+> https://arxiv.org/abs/1812.01187  
 
-## Update
-- 23.04.23: Initial upload !
-
-## Introduction
+## :dizzy:Introduction
 Experiments for below methods introduced in this paper.
 1. Large Batch Training
 2. Cosine Learning Rate Decay
@@ -17,7 +15,7 @@ Experiments for below methods introduced in this paper.
 You can experiment upper methods using this repository.  
 
 
-## Tested Dependencies
+## :dizzy:Tested Dependencies
 
 ``GPU`` NVIDIA RTX-3060-12GB, A6000-48GB, Colab-K80  
 ``CUDA`` 11.2  
@@ -31,7 +29,7 @@ You can experiment upper methods using this repository.
 
 ---
 
-## Dataset setup
+## :dizzy:Dataset setup
 
 Plese download the dataset from https://www.kaggle.com/datasets/coolerextreme/cub-200-2011. And split your data into train, test folders.
 ```
@@ -47,8 +45,8 @@ ${YOUR_ROOT}/
 |   |   |   |   |-- ...
 ```
 
-## Train the Model by each Methods
+## :dizzy:How to train the model by each Methods
+Please visit each directory's ``readme.md``!
 
-
-## Licence
+## :dizzy:Licence
 This project is licensed under the terms of the MIT license.
