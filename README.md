@@ -1,11 +1,9 @@
 # Bag of Tricks for Image Classification
+**[23.04.24]** Update!  
 
 :robot: My Implementation of the approach described in below paper. Hope you got helped!
 > He, Tong, et al. "Bag of tricks for image classification with convolutional neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.  
 > https://arxiv.org/abs/1812.01187  
-
-## :dizzy:Update
- 23.04.23: Initial upload !
 
 ## :dizzy:Introduction
 Experiments for below methods introduced in this paper.
